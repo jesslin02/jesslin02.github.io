@@ -30,8 +30,8 @@ html, body {
 #me {
   display: block;
   float:right;
-  padding-left: 2em;
-  width: 200px;
+  margin-left: 7%;
+  width: 30%;
   /*
   margin-left: auto;
   margin-right: auto;
@@ -104,13 +104,12 @@ html, body {
 .main {
   font-family: 'Source Sans Pro', sans-serif;
   margin-left: 202px; /* Same as the width of the sidebar */
-  padding-left: 2em;
+  padding: 0 10%;
   margin-right: 5%;
   margin-top: 3em;
 }
 
 .main h1{
-  text-align: center;
   font-size: xxx-large;
 	color: #3e7cb1;
 }
