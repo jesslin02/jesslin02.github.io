@@ -31,6 +31,7 @@ html, body {
   display: block;
   float:right;
   padding-left: 2em;
+  width: 200px;
   /*
   margin-left: auto;
   margin-right: auto;
@@ -104,15 +105,17 @@ html, body {
   font-family: 'Source Sans Pro', sans-serif;
   margin-left: 202px; /* Same as the width of the sidebar */
   padding-left: 2em;
-  margin-right: 3em;
+  margin-right: 5%;
   margin-top: 3em;
 }
 
 .main h1{
+  font-size: xxx-large;
 	color: #3e7cb1;
 }
 
 .main p{
+  font-size: large;
   padding: 2em 3em 0 0;
 }
 
