@@ -13,9 +13,14 @@
 
 table {
 	border-collapse: collapse;
-	width: 80%;
+	width: 90%;
 	text-align: center;
 	
+}
+
+th {
+	font-size: large;
+	color: #3e7cb1;
 }
 
 th, td {
