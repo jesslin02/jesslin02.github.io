@@ -79,7 +79,7 @@ html, body {
 .sidenav .navlinks a:hover:not(#current) {
   font-weight: 900;
   font-size: 17pt;
-  padding: 4px 0 1px;
+  padding: 4px 0 2px;
 }
 
 #current {
